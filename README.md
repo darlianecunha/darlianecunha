@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology and sustainability
 - 🌱 I’m currently actively exploring the world of Python programming to develop research in sustainability.
 - 💞️ I’m looking to collaborate on international projects
-- 📫 How to reach me https://www.linkedin.com/in/darlianecunha 
+- 📫 How to reach me https://www.linkedin.com/in/darlianecunha and darliane@me.com
 
 <!---
 darlianecunha/darlianecunha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
