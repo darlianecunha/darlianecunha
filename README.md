@@ -3,8 +3,8 @@
 **PhD Researcher | Professor | Maritime AI & Sustainability Analytics**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darlianecunha-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/darlianecunha/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--XXXX--XXXX-A6CE39?style=flat&logo=orcid)](https://orcid.org/YOUR-ORCID)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-h--index%209-4285F4?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=YOUR-ID)
+[![ORCID](https://orcid.org/0000-0003-2548-1237)
+[![Google Scholar](https://scholar.google.com.au/citations?hl=en&pli=1&user=BGRlXo0AAAAJ)
 
 ---
 
