@@ -13,8 +13,7 @@
 I am a Full Professor at the Federal University of Maranhao (UFMA), Brazil, with a PhD in Accounting and Finance (Universidad de Zaragoza, Spain) and a post-doctoral fellowship at Erasmus University Rotterdam (2024-2025). My research sits at the intersection of **maritime decarbonisation**, **AI-driven sustainability analytics**, and **SDG implementation**.
 
 - Research areas: Maritime AI, port environmental performance, NLP for sustainability, computer vision for environmental monitoring, SDG indicators
-- 17 peer-reviewed articles | 4 Scopus Q1 | h-index 9 | 302 citations
-- Outstanding Researcher Award, UFMA 2025-2026
+- 17 peer-reviewed articles | 4 Scopus Q1 | h-index 10 | 302 citations
 - Reviewer for 25 international journals
 
 ---
