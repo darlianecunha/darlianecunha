@@ -27,7 +27,7 @@ I am a Full Professor at the Federal University of Maranhao (UFMA), Brazil, with
 | **CO2 Liquid Bulk Calculator** | GHG emissions tool for bulk shipping | [co2-liquid-bulk-calculator.vercel.app](https://co2-liquid-bulk-calculator.vercel.app) |
 | **SDG Port Hub** | Port sustainability intelligence | [sdgporthub.com](https://sdgporthub.com) |
 | **SDG Radar** | Sustainability Platform for Municipalities | [radarods.vercel.app](https://radarods.vercel.app/) |
-
+| **Text Mining** | A browser-based text mining tool | [text-umber-delta.vercel.app](https://text-umber-delta.vercel.app/) |
 ---
 
 ## Tech Stack
