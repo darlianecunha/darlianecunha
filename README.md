@@ -22,11 +22,11 @@ I am a Full Professor at the Federal University of Maranhao (UFMA), Brazil, with
 
 | Project | Description | Link |
 |---|---|---|
-| **BluePort AI** | Waste classification using CLIP (vision-language model) | [blueportai.manus.space](https://blueportai.manus.space) |
 | **Brazil Port Data** | Research platform on Brazilian port sector | [brazilportdata.com](https://www.brazilportdata.com) |
 | **SDG Research Hub** | SDG analytics for ports | [sdgports.manus.space](https://sdgports.manus.space) |
 | **CO2 Liquid Bulk Calculator** | GHG emissions tool for bulk shipping | [co2-liquid-bulk-calculator.vercel.app](https://co2-liquid-bulk-calculator.vercel.app) |
 | **SDG Port Hub** | Port sustainability intelligence | [sdgporthub.com](https://sdgporthub.com) |
+| **SDG Radar** | Sustainability Platform for Municipalities | [radarods.vercel.app](https://radarods.vercel.app/)) |
 
 ---
 
