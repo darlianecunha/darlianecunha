@@ -1,6 +1,6 @@
 # Hi, I'm Darliane Cunha 
 
-**PhD Researcher | Professor | Maritime AI & Sustainability Analytics**
+**Sustainability & ESG Data Scientist | PhD | Maritime decarbonisation, environmental AI, SDGs | Python, ML, NLP | Open to remote collaborations**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darlianecunha-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/darlianecunha/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2548--1237-A6CE39?style=flat&logo=orcid)](https://orcid.org/0000-0003-2548-1237)
