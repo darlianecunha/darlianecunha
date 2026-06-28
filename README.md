@@ -15,9 +15,7 @@ I build end-to-end data products in Python (pandas, scikit-learn, Streamlit), wi
 I am open to remote collaborations and data roles in sustainability, ESG, and climate analytics.
 
 - Research areas: Maritime AI, port environmental performance, NLP for sustainability, computer vision for environmental monitoring, SDG indicators
-- 17 peer-reviewed articles | 4 Scopus Q1 | h-index 10 | 302 citations
-- Reviewer for 25 international journals
-
+  
 ---
 
 ## Live Projects & Apps
