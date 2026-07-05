@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Full Professor at the Federal University of Maranhão (UFMA), Brazil, with a PhD in Accounting and Finance (Universidad de Zaragoza, Spain) and a post-doctoral fellowship at Erasmus University Rotterdam (2024-2025). My work sits at the intersection of maritime decarbonisation, AI-driven sustainability analytics, and SDG implementation, where I turn raw port and regulatory data into dashboards, AI tools, and open-access platforms used by port authorities, regulators, and researchers.
+PhD in Accounting and Finance (Universidad de Zaragoza, Spain) and a post-doctoral fellowship at Erasmus University Rotterdam (2024-2025). My work sits at the intersection of maritime decarbonisation, AI-driven sustainability analytics, and SDG implementation, where I turn raw port and regulatory data into dashboards, AI tools, and open-access platforms used by port authorities, regulators, and researchers.
 I build end-to-end data products in Python (pandas, scikit-learn, Streamlit), with applied work in emission monitoring, NLP-based ESG analysis, and computer vision for environmental detection.
 I am open to remote collaborations and data roles in sustainability, ESG, and climate analytics.
 
