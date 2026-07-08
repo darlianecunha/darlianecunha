@@ -33,7 +33,7 @@ I am open to remote collaborations and data roles in sustainability, ESG, and cl
 | Data Platform | brazilportdata | Research hub for the Brazilian port sector (ANTAQ data) | [Live](https://www.brazilportdata.com) |
 | SDG Analytics | atributosods | Peer-reviewed port sustainability framework (Marine Policy 2025) | [Live](https://sdgporthub.com) · [DOI](https://doi.org/10.5281/zenodo.20708458) |
 
-Full portfolio with all 20+ tools: **[cunha-data-science.vercel.app](https://cunha-data-science.vercel.app/)**
+Full portfolio with all tools: **[cunha-data-science.vercel.app](https://cunha-data-science.vercel.app/)**
 
 ---
 
