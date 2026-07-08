@@ -19,6 +19,8 @@ I am open to remote collaborations and data roles in sustainability, ESG, and cl
 ---
 
 ## Featured Projects
+
+| Competency | Project | What it is | Links |
 |---|---|---|---|
 | Machine Learning | vessel-efficiency-ml | scikit-learn pipeline predicting ships' CO2 efficiency grades (A-E) from EU MRV data | [Code](https://github.com/darlianecunha/vessel-efficiency-ml) · [DOI](https://doi.org/10.5281/zenodo.20724337) |
 | SQL / Data Engineering | antaq-port-sql | DuckDB star-schema warehouse of Brazilian port operations | [Code](https://github.com/darlianecunha/antaq-port-sql) · [DOI](https://doi.org/10.5281/zenodo.20709577) |
@@ -32,6 +34,7 @@ I am open to remote collaborations and data roles in sustainability, ESG, and cl
 | SDG Analytics | atributosods | Peer-reviewed port sustainability framework (Marine Policy 2025) | [Live](https://sdgporthub.com) · [DOI](https://doi.org/10.5281/zenodo.20708458) |
 
 Full portfolio with all 20+ tools: **[cunha-data-science.vercel.app](https://cunha-data-science.vercel.app/)**
+
 ---
 
 ## Tech Stack
