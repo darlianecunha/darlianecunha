@@ -7,7 +7,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2548--1237-A6CE39?style=flat&logo=orcid)](https://orcid.org/0000-0003-2548-1237)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-h--index%2011-4285F4?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=BGRlXo0AAAAJ)
 
-Relocating to **Rotterdam, Netherlands** in November 2026 with a Dutch orientation-year permit (no work permit or sponsorship needed). Open to data science, sustainability analytics and research roles in ports, shipping and climate.
+Open to data science, sustainability analytics and research roles in ports, shipping and climate, in the Netherlands and across Europe.
 
 ---
 
