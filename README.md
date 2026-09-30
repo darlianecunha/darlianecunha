@@ -35,7 +35,7 @@ I turn raw port, ship and regulatory data into evidence, dashboards and open too
 | SDG analytics | **atributosods** | Peer-reviewed port sustainability framework, 84 indicators (Marine Policy 2025) | [Live](https://sdg-port-hub-sable.vercel.app) · [Code](https://github.com/darlianecunha/atributosods) · [DOI](https://doi.org/10.5281/zenodo.20708458) |
 | NLP / text mining | **textmining** | PDFWords: PDFs to VOSviewer co-occurrence networks, in the browser | [Live](https://text-umber-delta.vercel.app) · [DOI](https://doi.org/10.5281/zenodo.20708534) |
 | Data platform | **brazilportdata** | Research hub for the Brazilian port sector (ANTAQ data) | [Live](https://www.brazilportdata.com) |
-| Computer vision | **blueport-ai2** | Port waste classification with CLIP | [Live](https://blue-port-ia.vercel.app) · [Code](https://github.com/darlianecunha/blueport-ai2) |
+| Computer vision | **blueport-ai2** | Waste classification for ports, CLIP + linear probe, 94.6% cross-validated accuracy; runs in the browser | [Try it](https://blue-port-ia.vercel.app/#try) · [Code](https://github.com/darlianecunha/blueport-ai2) · [HF Space](https://huggingface.co/spaces/Darliane/blueport-ai) |
 
 Full portfolio with all tools: **[cunha-data-science.vercel.app](https://cunha-data-science.vercel.app/)**
 
