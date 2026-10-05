@@ -62,7 +62,7 @@ Data I know well: ANTAQ (Brazil's waterway regulator), EU MRV / THETIS, EU ETS, 
 
 Full Professor at the Federal University of Maranhão (Brazil) · PhD in Accounting and Finance, Universidad de Zaragoza · Postdoctoral research, Erasmus University Rotterdam (2024-2025). Reviewer for 26 international journals.
 
-- Cunha, D. R., & Pereira, N. N. (2026). Mapping ESG evolution in Brazilian ports: A text-mining approach to sustainability reporting. *Marine Policy*, 107287. [doi:10.1016/j.marpol.2026.107287](https://doi.org/10.1016/j.marpol.2026.107287)
+- Cunha, D. R., & Pereira, N. N. (2027). Mapping ESG evolution in Brazilian ports: A text-mining approach to sustainability reporting. *Marine Policy*, 195, 107287. [doi:10.1016/j.marpol.2026.107287](https://doi.org/10.1016/j.marpol.2026.107287)
 - Cunha, D. R., Costa, M. D. C., Oliveira, C. B. M., & Pereira, N. N. (2025). SDG attributes: A sustainability assessment framework for Brazilian ports. *Marine Policy*, 181, 106841. [doi:10.1016/j.marpol.2025.106841](https://doi.org/10.1016/j.marpol.2025.106841)
 
 ---
