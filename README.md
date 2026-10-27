@@ -2,7 +2,7 @@
 
 **Port & maritime decarbonisation data scientist | Emissions inventories, ESG analytics and SDG indicators for ports**
 
-[ribeirocunha.com](https://ribeirocunha.com) · [LinkedIn](https://www.linkedin.com/in/darlianecunha/) · [ORCID](https://orcid.org/0000-0003-2548-1237) · [Google Scholar](https://scholar.google.com/citations?user=BGRlXo0AAAAJ) · [Hugging Face](https://huggingface.co/Darliane) · [CV (PDF)](https://ribeirocunha.com/Darliane_Ribeiro_Cunha_CV.pdf)
+[ribeirocunha.com](https://ribeirocunha.com) · [LinkedIn](https://www.linkedin.com/in/darlianecunha/) · [ORCID](https://orcid.org/0000-0003-2548-1237) · [Google Scholar](https://scholar.google.com/citations?user=BGRlXo0AAAAJ) · [Hugging Face](https://huggingface.co/Darliane)
 
 I turn public maritime data (ANTAQ, EU MRV, EU ETS, Copernicus) into open datasets, models and tools that port authorities, regulators and researchers can act on. Full Professor at the Federal University of Maranhão (Brazil); postdoctoral research at Erasmus University Rotterdam (2024-2025) and the Autonomous University of Barcelona (2017-2018). Open to data, applied AI and sustainability analytics roles in the Netherlands and across Europe.
 
